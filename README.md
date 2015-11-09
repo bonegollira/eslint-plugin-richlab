@@ -1,6 +1,6 @@
 # eslint-plugin-richlab
 
-The custom rules created by richlab
+An ESLint plugin created by RichLab.
 
 ## Installation
 
