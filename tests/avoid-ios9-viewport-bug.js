@@ -1,6 +1,6 @@
 'use strict';
 
-import rule, {message} from '../../lib/rules/avoid-ios9-viewport-bug';
+import rule, {message} from '../lib/rules/avoid-ios9-viewport-bug';
 import {RuleTester} from 'eslint';
 
 const ruleTester = new RuleTester();
